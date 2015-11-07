@@ -5,3 +5,4 @@
 * [ESLint](eslint.md)
 * [webdriverIO](webdriverio.md)
 * [Electron](electron.md)
+* [ESDoc](esdoc.md)
